@@ -8,8 +8,7 @@ class LoadingScreen extends React.Component {
     render() {
         return (
             <View style={styles.container}>
-              <Text style={styles.welcome}>Welcome to the Gig Checklist App!</Text>
-              <Text style={styles.instructions}>Nothing works yet, we're working on it... :)</Text>
+              <Text style={styles.welcome}>Loading...</Text>
             </View>
         );
     }

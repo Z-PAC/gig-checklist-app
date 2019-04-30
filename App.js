@@ -8,12 +8,12 @@
 
 import React from 'react'
 
-import LoadingScreen from 'GigChecklist/screens/LoadingScreen'
+import AppNavigator from 'GigChecklist/navigation'
 
 export default class App extends React.Component {
   render() {
     return (
-      <LoadingScreen />
+      <AppNavigator />
     );
   }
 }
