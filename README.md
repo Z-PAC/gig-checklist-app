@@ -1,5 +1,3 @@
-# Project Title
-
-Gig Checklist App
+# Gig Checklist App
 
 ## Under construction
