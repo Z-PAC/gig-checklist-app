@@ -1,7 +1,7 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-class HomeScreen extends React.Component {
+class NewChecklistScreen extends React.Component {
 
     render() {
         return (
@@ -12,4 +12,4 @@ class HomeScreen extends React.Component {
     }
 }
 
-export default HomeScreen
+export default NewChecklistScreen
